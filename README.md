@@ -1,17 +1,10 @@
-Sure chellooo, here’s a **more detailed and fully professional README** — clean, clear, no emojis:
-
----
-
-# Stock Manager — FastAPI Inventory System
+ Stock Manager — FastAPI Inventory System
 
 A lightweight inventory management system built using **FastAPI**, **SQLite**, and **Pydantic**.
 This project allows you to **add, update, delete, search, and list products** with clean architecture and modular code.
+**Features**
 
----
-
-## **📌 Features**
-
-### **Core Functionalities**
+**Core Functionalities**
 
 * Add new products
 * Update existing products
